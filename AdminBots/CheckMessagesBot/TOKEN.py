@@ -1,1 +1,2 @@
 TOKEN = "your token"
+GROUP_ID = 1234567890
